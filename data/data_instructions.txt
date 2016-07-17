@@ -1,0 +1,3 @@
+Download data from the link below and unzip into this folder before running the python analysis. 
+
+https://www.kaggle.com/c/talkingdata-mobile-user-demographics/data
